@@ -786,7 +786,7 @@ img {
   pointer-events: none;
 }
 
-.modal-icon:hover,
-.modal-icon:focus {
+.modal-button:hover,
+.modal-button:focus {
   fill: var(--accent-color);
 }
