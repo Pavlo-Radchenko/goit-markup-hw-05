@@ -785,3 +785,8 @@ img {
   visibility: hidden;
   pointer-events: none;
 }
+
+.modal-icon:hover,
+.modal-icon:focus {
+  fill: var(--accent-color);
+}
